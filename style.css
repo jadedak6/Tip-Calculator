@@ -1,0 +1,25 @@
+*{ padding: 7px;
+    font-family: "Segoe UI",sans-serif;}
+
+html, body {
+    margin: 3%;
+    margin-top: 5%;
+}
+
+body {
+    background-color: lightgrey;
+    justify-content: center;
+}
+
+.answer{
+    padding-top: 30px;
+    text-align: center;
+    font-size: 17px;
+}
+
+.heading{
+    text-align: center;
+    font-weight: 300;
+    font-size: 22px;
+    letter-spacing: 4px;
+}
